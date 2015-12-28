@@ -3,7 +3,7 @@
 ## How to clone
 
 ```
-git clone --origin template  <project_name>
+git clone --origin template git@github.com:wearescytale/template-angular.git <project_name>
 ```
 This will clone the repo into the `<project_name>` folder and setup the remote has `template`, this way it would interfer with the project `origin` remote.
 
